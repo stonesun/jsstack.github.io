@@ -1,5 +1,5 @@
 #JS Stack
 
-##[jsstack](jsstack.com)
+##[jsstack](http://blog.jsstack.com)
 
 Powered by Lanyon
