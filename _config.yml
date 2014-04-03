@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            JSStack.com
+tagline:          'A interesting site'
+description:      'Something interesting to share with you'
+url:              http://blog.jsstack.com
+
+author:
+  name:           'Stone Sun'
+  url:            http://jsstack.com
+
+paginate:         5
+
+github:
+  repo:           https://github.com/jsstack
+
